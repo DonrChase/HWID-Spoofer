@@ -54,10 +54,6 @@ sc stop BEService
 sc stop EasyAntiCheat
 sc stop PunkBuster
 sc stop Vanguard
-sc stop ricocheat
-sc stop defender
-sc stop firewall
-sc stop explorer
 
 :internettest
 cls
