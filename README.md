@@ -80,12 +80,18 @@ Cleaner 0.2       |       Others    |
  
 ## 💬 ・[Telegram](https://t.me/Serups)
 
-- Buy in Telegram for privacy | Discord private customer 
-- About [Private Cheat information](https://github.com/API-Connects/Detail)
+
+
+`BLUE TEXT FOR BUY`
+
+- Buy in Telegram for Privacy
+- More Here: [Private Cheat information](https://github.com/API-Connects/Detail)
 
 
 
- ### 🛒〢 `PRODUCT`
+
+
+ ### 🛒〢 `SHOP`
  
 <table>
 <tr>
@@ -110,7 +116,6 @@ Cleaner 0.2       |       Others    |
 #### Website | Portfolio [Serups.me](http://Serups.me/)
 
 ---
-
   <br>
 
 <p align="center">
